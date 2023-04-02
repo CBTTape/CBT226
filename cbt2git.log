@@ -1,0 +1,5 @@
+2023-04-02 22:47:19.938564 - Initialized conversion of CBT226
+2023-04-02 22:47:19.978818 - Received CBT.V504.FILE226.PDS from FILE226.XMI 
+2023-04-02 22:47:19.981723 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE226.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:47:19.983161 - Found @FILE226.txt (text/plain) in CBT.V504.FILE226.PDS, moved to PDS/@FILE226
+2023-04-02 22:47:19.983174 - Found CMPRSEQ.bin containing application/octet-stream, moved to PDS/CMPRSEQ
