@@ -1,4 +1,4 @@
-2025-04-13 14:53:17.185673 - Received CBT.V508.FILE226.PDS from FILE226.XMI 
-2025-04-13 14:53:17.186290 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE226.PDS, moved to PDS/$$$#DATE
-2025-04-13 14:53:17.186375 - Found @FILE226.txt (text/plain) in CBT.V508.FILE226.PDS, moved to PDS/@FILE226
-2025-04-13 14:53:17.186498 - Found CMPRSEQ.bin (application/octet-stream) in CBT.V508.FILE226.PDS, moved to PDS/CMPRSEQ
+2025-04-13 17:41:17.926067 - Received CBT.V508.FILE226.PDS from FILE226.XMI 
+2025-04-13 17:41:17.926654 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE226.PDS, moved to PDS/$$$#DATE
+2025-04-13 17:41:17.926716 - Found @FILE226.txt (text/plain) in CBT.V508.FILE226.PDS, moved to PDS/@FILE226
+2025-04-13 17:41:17.926811 - Found CMPRSEQ.bin (application/octet-stream) in CBT.V508.FILE226.PDS, moved to PDS/CMPRSEQ
